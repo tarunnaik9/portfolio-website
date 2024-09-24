@@ -10,7 +10,7 @@ You can view the live demo of the personal portfolio websitehere:
 
 . Live Website Link: https://tarunnaikportfolio.netlify.app/
 
-#Features
+# Features
 
 . Responsive Design: Automatically adjusts to different screen sizes, providing an optimal viewing experience on both mobile and desktop devices.
 
@@ -27,10 +27,14 @@ You can view the live demo of the personal portfolio websitehere:
 . Contact Form: Enables visitors to easily reach out for professional inquiries or collaborations.
 
 
-#Screenshot of Project
+# Screenshot of Project
+
 Interface
 
 ![Screenshot 2024-09-24 214630](https://github.com/user-attachments/assets/7c3a3b56-875c-4ae5-8494-84b6b7946327)
+
+
+
 
 
 
